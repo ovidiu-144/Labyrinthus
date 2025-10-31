@@ -1,11 +1,18 @@
 # Labyrinthus
 
+## Description
+Labyrinthus is a Java project developed for the **Object-Oriented Application Design** laboratory.
 
-## Descriere
-Labyrinthus este un proiect Java realizat pentru laboratorul de Proiectarea aplicatiilor orientate obiect.
+It is a 3rd person, top-down, 2D action RPG that follows the story of the main character, Emil, as he traverses the ancient labyrinth of Minos with the goal of defeating the fearsome Minotaur at the end.
 
-## Plugin-uri utilizate
-În dezvoltarea proiectului au fost folosite următoarele plugin-uri IntelliJ IDEA:
-- **JavaFX Plugin** (https://openjfx.io/) – pentru suportul interfeței grafice și rularea proiectului JavaFX direct din IDE.   
-- **Sql Plugin data base** (https://sourceforge.net/projects/sqlite-jdbc-driver.mirror/) – pentru salvarea starii jocului, si a punctajelor finale.
+## Plugins Used
+The following IntelliJ IDEA plugins were used during the development of the project:
 
+- **JavaFX Plugin** ([https://openjfx.io/](https://openjfx.io/)) – provides support for the graphical interface and running the JavaFX project directly from the IDE.  
+- **SQL Plugin / Database** ([https://sourceforge.net/projects/sqlite-jdbc-driver.mirror/](https://sourceforge.net/projects/sqlite-jdbc-driver.mirror/)) – used to save the game state and final scores.
+
+## Authors
+- **Ovidiu-Ștefan Spiridon**  
+- **David-Catalin Turnea**  
+
+**Faculty:** Automatică și Calculatoare, Iași
