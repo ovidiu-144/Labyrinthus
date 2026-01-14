@@ -12,7 +12,7 @@ The following IntelliJ IDEA plugins were used during the development of the proj
 - **SQL Plugin / Database** ([https://sourceforge.net/projects/sqlite-jdbc-driver.mirror/](https://sourceforge.net/projects/sqlite-jdbc-driver.mirror/)) – used to save the game state and final scores.
 
 ## Authors
-- **Ovidiu-Ștefan Spiridon**  
-- **David-Catalin Turnea**  
+- **Ovidiu-Ștefan Spiridon**  (https://github.com/ovidiu-144)
+- **David-Catalin Turnea**  (https://github.com/TurneaDavid-Catalin)
 
 **Faculty:** Automatică și Calculatoare, Iași
